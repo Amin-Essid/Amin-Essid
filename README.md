@@ -10,7 +10,7 @@ I have 5 years of experience in the software development field, and I have done 
 <summary><strong>Early-Stage Startup: From MVP to Market-Ready SaaS</strong></summary>
   <br>
 <strong>Duration:</strong> February 2023 – May 2025<br>
-<strong>Employment Type:</strong> Contract<br>
+<strong>Employment Type:</strong> Contract (Par time)<br>
 <strong>Role:</strong> Full Stack Developer (React, Firebase, Node.js)<br>
 <br>
 
