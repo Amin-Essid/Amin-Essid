@@ -20,7 +20,7 @@ While working with the Ziaway team, I led the revamp of two web applications:
 - Ziaway.ca: An AI-powered platform that enables property value evaluation
 - Pro-Ziaway: A subscription-based dashboard that provides real estate brokers with access to potential lead data.<br>
 
-**Key contributions:**<br>
+<strong>Key contributions:</strong><br>
 
 - Upgraded the codebase of both web applications from React 16 to React 18, migrating all related packages including Firebase (from namespaced API to modular API) and Redux (to Redux Toolkit).<br>
 - Implemented a completely new and modern UI/UX, adding multiple features and pages.<br>
