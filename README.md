@@ -1,11 +1,17 @@
 ## Amine Essid
+---
 
-FullStack Developer (Javascript / Typescript).
+Full-Stack Developer (Javascript / Typescript).
 
-I am a top rated plus Freelancer mainly on Upwork, building reliable Full-Stack products & solutions for business’s owners, entrepreneurs, managers, and visionaries from all around the world.
+I am a top rated plus Freelancer mainly on Upwork, building reliable Full-Stack products & solutions for business’s owners, entrepreneurs, managers, and visionaries worldwide. 
+I have 5 years of experience in the software development field, and I have done it all:
 
 <details>
 <summary>Early-Stage Startup: From MVP to Market-Ready SaaS</summary>
+**Duration:** February 2023 – May 2025<br> 
+**Employment Type:** Contract<br> 
+**Role:** Full Stack Developer (React, Firebase, Node.js)<br>
+<br>
 
 As a Full Stack Developer at Ziaway, a Canadian startup, I played a key role in rebuilding and launching the platform.<br>
 
@@ -20,5 +26,10 @@ While working with the Ziaway team, I led the revamp of two web applications:
 - Developed client and broker dashboards and integrated the applications with our custom machine learning model, enabling users to accurately estimate real estate property values using AI-powered tools<br>
 - Integrated multiple third-party APIs and automations, including Stripe (subscription management), Google Maps, Meta, Twilio, and Zoho CRM (marketing campaign monitoring).<br>
 - Maintained and developed multiple Node.js cloud functions to handle server-side tasks for Ziaway's web applications.<br>
+
+<div style="display: flex; gap: 10px;"> 
+<img src="z1.png" alt="ziaway" width="48%"> 
+<img src="z2.png" alt="pro-ziaway" width="48%"> 
+</div>
 
 </details>
