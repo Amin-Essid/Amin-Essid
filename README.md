@@ -7,7 +7,7 @@ I am a top rated plus Freelancer mainly on Upwork, building reliable Full-Stack 
 I have 5 years of experience in the software development field, and I have done it all:
 
 <details>
-<summary>Early-Stage Startup: From MVP to Market-Ready SaaS</summary>
+<summary><strong>Early-Stage Startup: From MVP to Market-Ready SaaS</strong></summary>
   <br>
 <strong>Duration:</strong> February 2023 – May 2025<br>
 <strong>Employment Type:</strong> Contract<br>
