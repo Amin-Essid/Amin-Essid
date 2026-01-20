@@ -8,9 +8,10 @@ I have 5 years of experience in the software development field, and I have done 
 
 <details>
 <summary>Early-Stage Startup: From MVP to Market-Ready SaaS</summary>
-**Duration:** February 2023 – May 2025<br> 
-**Employment Type:** Contract<br> 
-**Role:** Full Stack Developer (React, Firebase, Node.js)<br>
+  <br>
+<strong>Duration:</strong> February 2023 – May 2025<br>
+<strong>Employment Type:</strong> Contract<br>
+<strong>Role:</strong> Full Stack Developer (React, Firebase, Node.js)<br>
 <br>
 
 As a Full Stack Developer at Ziaway, a Canadian startup, I played a key role in rebuilding and launching the platform.<br>
