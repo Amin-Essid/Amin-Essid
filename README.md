@@ -1,8 +1,6 @@
 ## Amine Essid
 
-```
-Full-Stack Developer (Javascript / Typescript).
-```
+`Full-Stack Developer (Javascript / Typescript).`
 
 I am a top rated plus Freelancer mainly on Upwork, building reliable Full-Stack products & solutions for business’s owners, entrepreneurs, managers, and visionaries worldwide. 
 I have 5 years of experience in the software development field, and I have done it all:
